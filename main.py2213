@@ -5,5 +5,5 @@ if 99<a<1000 :
     e = a - s*100 - d*10;
     b = e*100 + d*10 + s;
     r = a - b;
-else :
-print(r)
+    print(r)
+    
